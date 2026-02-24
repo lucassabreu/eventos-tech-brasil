@@ -34,29 +34,42 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Fevereiro
 <!-- FEVEREIRO:START -->
 - 23 e 24: [Hacking Club - Workshop Prático: Introdução ao Pentest em Ambientes Linux e Windows](https://lp.hackingclub.com/) ![online]
+- 24 e 25: [Começando com AWS - General Immersion Day](https://aws-experience.com/latam/smb/e/f4222/comecando-com-aws---general-immersion-day) ![online]
 - 26 e 27: [Digital Investigation Conference Brazil 2026](https://wbeducacional.ac-page.com/dicb-2026) - _Porto Alegre/RS_ ![presencial]
 - 28: [SQL Saturday Belo Horizonte 2026](https://sqlsaturday.com/2026-02-28-sqlsaturday1132/) - _Belo Horizonte/MG_ ![presencial]
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->
 - 14: [AWSome Women Community Summit Brasil 2026](https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com) - _Recife/PE_ ![presencial]
+- 14: [AZBR Summit 2026](https://azbrsummit.com.br/) ![online]
+- 19 e 20: [Google Cloud Infrastructure for AWS Professionals - Webinar](https://rsvp.withgoogle.com/events/gcif_aws_pdt26042) ![online]
 - 28: [SQL Saturday Brasil](https://sqlsaturday.com.br/) - _Guarulhos/SP_ ![presencial]
+- 28: [Tosconf[6]](https://tosconf.lhc.net.br) - _Campinas/SP_ ![presencial]
+- 28: [SQL Saturday](https://sqlsaturday.com/2026-03-28-sqlsaturday1142/) - _Guarulhos/SP_ ![presencial]
 <!-- MARÇO:END -->
 ### Maio
 <!-- MAIO:START -->
 - 01: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ ![presencial]
+- 08: [IA Network Summit](https://www.even3.com.br/ia-network-summit-652537/) - _São Paulo/SP_ ![presencial]
+- 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ ![presencial]
+- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944) - _São Paulo/SP_ ![presencial]
+- 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
+- 01 e 02: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ ![presencial]
 - 08, 09, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
+- 08, 09, 10 e 11: [Web Summit Rio](https://rio.websummit.com/pt-br/tracks/saas-summit/?utm_source=google&utm_medium=cpc&utm_campaign=23534762045&utm_content=&utm_term=&gad_source=1&gad_campaignid=23534784614&gbraid=0aaaaapjggfqoai2qpf85mbibd4l0v_zxf&gclid=cjwkcaiakvdmbhbmeiwanua9bulsrukgeop86c-shvraz_rq6_do602cjthkbxlsdcmt5zpcnmf9irocqvqqavd_bwe) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- JUNHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
+- 01 e 31: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ ![presencial]
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 02, 03 e 04: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ ![presencial]
+- 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
@@ -67,16 +80,8 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ## TBA: To Be Announced
 <!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
 <!-- TBA:START -->
-- TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
-- TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
-- TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
-- TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/) - _Arapiraca/AL_ ![presencial]
-- TBA: [Datacon](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
 - TBA: [Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
-- TBA: [Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher](https://www.meetup.com/women-techmakers-curitiba/events/305753276) - _Curitiba/PR_ ![presencial]
-- TBA: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
-- TBA: [HackBahia](https://hackbahia.github.io/) - _Salvador/BA_ ![presencial]
+- TBA: [Latinoware 2026](https://latinoware.org/) - _Foz Do Iguaçu/PR_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores
