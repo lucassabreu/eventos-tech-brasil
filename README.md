@@ -52,14 +52,14 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 01: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ ![presencial]
 - 08: [IA Network Summit](https://www.even3.com.br/ia-network-summit-652537/) - _São Paulo/SP_ ![presencial]
 - 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ ![presencial]
-- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944) - _São Paulo/SP_ ![presencial]
+- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos) - _São Paulo/SP_ ![presencial]
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
 - 01 e 02: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ ![presencial]
 - 08, 09, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
-- 08, 09, 10 e 11: [Web Summit Rio](https://rio.websummit.com/pt-br/tracks/saas-summit/?utm_source=google&utm_medium=cpc&utm_campaign=23534762045&utm_content=&utm_term=&gad_source=1&gad_campaignid=23534784614&gbraid=0aaaaapjggfqoai2qpf85mbibd4l0v_zxf&gclid=cjwkcaiakvdmbhbmeiwanua9bulsrukgeop86c-shvraz_rq6_do602cjthkbxlsdcmt5zpcnmf9irocqvqqavd_bwe) - _Rio De Janeiro/RJ_ ![presencial]
+- 08, 09, 10 e 11: [Web Summit Rio - SaaS Summit](https://rio.websummit.com/pt-br/tracks/saas-summit/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- JUNHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
