@@ -9027,6 +9027,24 @@
           ]
         },
         {
+          "mes": "julho",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "TDC Floripa 2026",
+              "data": [
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "híbrido"
+            }
+          ]
+        },
+        {
           "mes": "agosto",
           "arquivado": false,
           "eventos": [
