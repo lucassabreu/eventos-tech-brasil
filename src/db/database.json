@@ -9079,6 +9079,17 @@
               "cidade": "Pinhais",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC Experience São Carlos",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "São Carlos",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
