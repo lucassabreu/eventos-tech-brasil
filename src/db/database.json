@@ -9060,6 +9060,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "TDC Experience Rio Innovation Week | Píer Mauá",
+              "data": [
+                "05",
+                "06"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Codecon Summit 2026",
               "data": [
                 "14"
