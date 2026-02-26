@@ -60,15 +60,15 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:START -->
 - 01 e 02: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ ![presencial]
 - 08, 09, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
-- 08, 09, 10 e 11: [Web Summit Rio](https://rio.websummit.com/pt-br/tracks/saas-summit/?utm_source=google&utm_medium=cpc&utm_campaign=23534762045&utm_content=&utm_term=&gad_source=1&gad_campaignid=23534784614&gbraid=0aaaaapjggfqoai2qpf85mbibd4l0v_zxf&gclid=cjwkcaiakvdmbhbmeiwanua9bulsrukgeop86c-shvraz_rq6_do602cjthkbxlsdcmt5zpcnmf9irocqvqqavd_bwe) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
 - 22, 23 e 24: [TDC Floripa 2026](https://thedevconf.com/tdc/2026/index.html) - _Florianópolis/SC_ ![híbrido]
+- 31: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
 <!-- JULHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
-- 01 e 31: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
+- 01: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
 - 05 e 06: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ ![híbrido]
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ ![presencial]
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ ![híbrido]
