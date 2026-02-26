@@ -9138,6 +9138,23 @@
               "tipo": "presencial"
             }
           ]
+        },
+        {
+          "mes": "novembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "TDC Experience Recife | Rec'n'Play",
+              "data": [
+                "11",
+                "12"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "híbrido"
+            }
+          ]
         }
       ]
     }
