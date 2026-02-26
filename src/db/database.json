@@ -9155,6 +9155,23 @@
               "tipo": "híbrido"
             }
           ]
+        },
+        {
+          "mes": "dezembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "TDCX PORTO ALEGRE",
+              "data": [
+                "09",
+                "10"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "híbrido"
+            }
+          ]
         }
       ]
     }
