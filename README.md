@@ -43,7 +43,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 14: [AWSome Women Community Summit Brasil 2026](https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com) - _Recife/PE_ ![presencial]
 - 14: [AZBR Summit 2026](https://azbrsummit.com.br/) ![online]
 - 19 e 20: [Google Cloud Infrastructure for AWS Professionals - Webinar](https://rsvp.withgoogle.com/events/gcif_aws_pdt26042) ![online]
-- 26 e 27: [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _Pinheiros/SP_ ![híbrido]
+- 26 e 27: [TDC Summit São Paulo](https://thedevconf.com/tdc/2026/summit-sao-paulo/) - _Pinheiros/SP_ ![híbrido]
 - 28: [Tosconf[6]](https://tosconf.lhc.net.br) - _Campinas/SP_ ![presencial]
 - 28: [SQL Saturday](https://sqlsaturday.com/2026-03-28-sqlsaturday1142/) - _Guarulhos/SP_ ![presencial]
 <!-- MARÇO:END -->
