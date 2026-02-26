@@ -6255,7 +6255,7 @@
                 "26",
                 "27"
               ],
-              "url": "https://thedevconf.com/tdc/2025/summit-sao-paulo/",
+              "url": "https://thedevconf.com/tdc/2026/summit-sao-paulo/",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
@@ -9010,19 +9010,6 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
-            },
-            {
-              "nome": "Web Summit Rio",
-              "data": [
-                "08",
-                "09",
-                "10",
-                "11"
-              ],
-              "url": "https://rio.websummit.com/pt-br/tracks/saas-summit/?utm_source=google&utm_medium=cpc&utm_campaign=23534762045&utm_content=&utm_term=&gad_source=1&gad_campaignid=23534784614&gbraid=0aaaaapjggfqoai2qpf85mbibd4l0v_zxf&gclid=cjwkcaiakvdmbhbmeiwanua9bulsrukgeop86c-shvraz_rq6_do602cjthkbxlsdcmt5zpcnmf9irocqvqqavd_bwe",
-              "cidade": "Rio De Janeiro",
-              "uf": "RJ",
-              "tipo": "presencial"
             }
           ]
         },
@@ -9041,6 +9028,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Agile Trends São Paulo",
+              "data": [
+                "31"
+              ],
+              "url": "https://doity.com.br/agile-trends-2026",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
@@ -9051,8 +9048,7 @@
             {
               "nome": "Agile Trends São Paulo",
               "data": [
-                "01",
-                "31"
+                "01"
               ],
               "url": "https://doity.com.br/agile-trends-2026",
               "cidade": "São Paulo",
