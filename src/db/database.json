@@ -9108,6 +9108,18 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC São Paulo",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
