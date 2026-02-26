@@ -12,7 +12,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a></p>
+<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
 
 ## Contribuindo
 
@@ -34,34 +34,61 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Fevereiro
 <!-- FEVEREIRO:START -->
 - 23 e 24: [Hacking Club - Workshop Prático: Introdução ao Pentest em Ambientes Linux e Windows](https://lp.hackingclub.com/) ![online]
+- 24 e 25: [Começando com AWS - General Immersion Day](https://aws-experience.com/latam/smb/e/f4222/comecando-com-aws---general-immersion-day) ![online]
 - 26 e 27: [Digital Investigation Conference Brazil 2026](https://wbeducacional.ac-page.com/dicb-2026) - _Porto Alegre/RS_ ![presencial]
 - 28: [SQL Saturday Belo Horizonte 2026](https://sqlsaturday.com/2026-02-28-sqlsaturday1132/) - _Belo Horizonte/MG_ ![presencial]
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->
 - 14: [AWSome Women Community Summit Brasil 2026](https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com) - _Recife/PE_ ![presencial]
-- 28: [SQL Saturday Brasil](https://sqlsaturday.com.br/) - _Guarulhos/SP_ ![presencial]
+- 14: [AZBR Summit 2026](https://azbrsummit.com.br/) ![online]
+- 19 e 20: [Google Cloud Infrastructure for AWS Professionals - Webinar](https://rsvp.withgoogle.com/events/gcif_aws_pdt26042) ![online]
+- 26 e 27: [TDC Summit São Paulo](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _Pinheiros/SP_ ![híbrido]
+- 28: [Tosconf[6]](https://tosconf.lhc.net.br) - _Campinas/SP_ ![presencial]
+- 28: [SQL Saturday](https://sqlsaturday.com/2026-03-28-sqlsaturday1142/) - _Guarulhos/SP_ ![presencial]
 <!-- MARÇO:END -->
 ### Maio
 <!-- MAIO:START -->
 - 01: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ ![presencial]
+- 08: [IA Network Summit](https://www.even3.com.br/ia-network-summit-652537/) - _São Paulo/SP_ ![presencial]
+- 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ ![presencial]
+- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944) - _São Paulo/SP_ ![presencial]
+- 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
+- 01 e 02: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ ![presencial]
 - 08, 09, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- JUNHO:END -->
+### Julho
+<!-- JULHO:START -->
+- 22, 23 e 24: [TDC Floripa 2026](https://thedevconf.com/tdc/2026/index.html) - _Florianópolis/SC_ ![híbrido]
+- 31: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
+<!-- JULHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
+- 01: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
+- 05 e 06: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ ![híbrido]
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ ![presencial]
+- 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ ![híbrido]
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 02, 03 e 04: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ ![presencial]
+- 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ ![híbrido]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
 - 14: [Python Brasil 2026](https://2026.pythonbrasil.org.br/) - _Florianópolis/SC_ ![presencial]
 <!-- OUTUBRO:END -->
+### Novembro
+<!-- NOVEMBRO:START -->
+- 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ ![híbrido]
+<!-- NOVEMBRO:END -->
+### Dezembro
+<!-- DEZEMBRO:START -->
+- 09 e 10: [TDCX PORTO ALEGRE](https://thedevconf.com/tdc/2026/index.html) - _Porto Alegre/RS_ ![híbrido]
+<!-- DEZEMBRO:END -->
 <!-- ANO2026:END -->
 
 ## TBA: To Be Announced
@@ -77,6 +104,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - TBA: [Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher](https://www.meetup.com/women-techmakers-curitiba/events/305753276) - _Curitiba/PR_ ![presencial]
 - TBA: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 - TBA: [HackBahia](https://hackbahia.github.io/) - _Salvador/BA_ ![presencial]
+- TBA: [Latinoware](https://latinoware.org/) - _Foz Do Iguaçu/PR_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores
